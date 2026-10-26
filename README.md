@@ -6,7 +6,7 @@ An end-to-end Business Intelligence project demonstrating the complete data life
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](powerBI/images/dashboard_preview.png)
 
 ---
 
