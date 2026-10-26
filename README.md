@@ -30,3 +30,16 @@ This project processes raw customer demographics, transactional histories, and m
 │   └── dashboard_preview.png            # High-resolution dashboard screenshot
 ├── Customer_Analytics.pbix              # Interactive Power BI report file
 └── README.md                            # Main project overview
+
+
+---
+
+## 👤 Author & Contact
+- **Author:** Mahmoud
+- **LinkedIn:** www.linkedin.com/in/mahmoud-ibrahim-6bb00b377
+- **GitHub:** https://github.com/mahmoud14043-bit/End-to-End-Customer-Analytics-BI.git
+
+---
+
+##  License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
