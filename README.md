@@ -4,6 +4,16 @@ An end-to-end Business Intelligence project demonstrating the complete data life
 
 ---
 
+## Dashboard Preview
+
+![Dashboard Preview](images/dashboard_preview.png)
+
+---
+
+## End-to-End Pipeline
+
+---
+
 ##  What This Analytics Project Delivers
 
 This project processes raw customer demographics, transactional histories, and marketing response records to help business stakeholders make data-driven growth decisions:
@@ -41,5 +51,5 @@ This project processes raw customer demographics, transactional histories, and m
 
 ---
 
-##  License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
