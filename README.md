@@ -25,21 +25,21 @@ This project processes raw customer demographics, transactional histories, and m
 
 ---
 
-##  Repository Structure
+## Repository Structure
 
 ```text
 ├── power_query/
-│   └── excel_transformations.m          # Data cleansing steps in Power Query
+│   └── excel_transformations.m          # Deduplication & initial data preparation
 ├── sql/
-│   ├── 01_schema_setup.sql              # Staging table definitions
-│   └── 02_star_schema_etl.sql           # Fact and Dimension table queries
-├── data/
-│   ├── raw_customer_data.csv            # Original raw dataset
-│   └── cleaned_customer_staging.csv     # Cleaned data ready for SQL loading
+│   ├── 01_data_cleaning_etl.sql         # Data cleaning & transformation scripts
+│   └── 02_analytical_views.sql          # Final analytical views for reporting
+├── power_bi/
+│   └── dax_measures.md                  # Core DAX formulas & calculated business metrics
 ├── images/
 │   └── dashboard_preview.png            # High-resolution dashboard screenshot
-├── Customer_Analytics.pbix              # Interactive Power BI report file
-└── README.md                            # Main project overview
+└── README.md                            # 
+
+Main project overview
 
 
 ---
